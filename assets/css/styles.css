@@ -78,3 +78,9 @@
 .images img:hover{
     transform: scale(1.05);
 }
+.product{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+   
+}
