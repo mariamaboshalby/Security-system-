@@ -1,4 +1,7 @@
 /* Slider Overlay */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .overlay {
     position: absolute;
     top: 0;
